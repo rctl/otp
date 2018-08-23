@@ -1,3 +1,7 @@
+**This is a fork of https://github.com/pquerna/otp**. Used for auditing purposes, some features will be removed from this version.
+
+---
+
 # otp: One Time Password utilities Go / Golang
 
 [![GoDoc](https://godoc.org/github.com/pquerna/otp?status.svg)](https://godoc.org/github.com/pquerna/otp) [![Build Status](https://travis-ci.org/pquerna/otp.svg?branch=master)](https://travis-ci.org/pquerna/otp)
